@@ -10,6 +10,7 @@ pandas
 scikit-learn
 xgboost
 joblib
+pytest
 mlflow
 
 # --- Text Processing ---
